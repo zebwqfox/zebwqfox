@@ -40,7 +40,6 @@
 
 **其他 · Elsewhere**
 
-- [furlink/fandwill-flutter-app#1](https://github.com/furlink/fandwill-flutter-app/pull/1): 接入后端 API、注册登录与 iPad 适配 · API SDK, auth, iPad layout ✅
 - [PCL-Community/PCL-CE#3813](https://github.com/PCL-Community/PCL-CE/pull/3813): 修复崩溃日志导出编码错误 · Fix crash-log export encoding 🔄
 - [C0P1Fur/FontNest#1](https://github.com/C0P1Fur/FontNest/pull/1): macOS 适配 · macOS support 🔄
 - [linzin86/LinzinDeskClock#24](https://github.com/linzin86/LinzinDeskClock/pull/24): 修正应用内语言切换 · Fix in-app language switching 🔄
