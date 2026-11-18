@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm zebwqfox 🦊</h1>
+<h1 align="center">Hi, I'm 中二蘑菇</h1>
 
 <p align="center">
-  来自内蒙古的学生 · Furry · 个人站长 · 喜欢把小工具打磨到顺手<br>
-  A student and furry from Inner Mongolia who runs a personal site and likes polishing small tools until they feel right.
+  现居湖北 · Furry · 个人站长 · 喜欢搞很多小工具<br>
+  A student and furry from Hubei who runs a personal site and likes polishing small tools until they feel right.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://github.com/FurDevsCN">@FurDevsCN</a>
 </p>
 
-## 🧰 技术栈 · Tech Stack
+## 技术栈 · Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
@@ -25,7 +25,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 🌱 开源贡献 · Open Source Contributions
+## 开源贡献 · Open Source Contributions
 
 **[wooliSyn/biolab-assistant](https://github.com/wooliSyn/biolab-assistant)**: 本地优先的分子生物学桌面工具（Tauri v2 + React）
 *A local-first desktop app for molecular biology labs.*
@@ -45,13 +45,13 @@
 - [C0P1Fur/FontNest#1](https://github.com/C0P1Fur/FontNest/pull/1): macOS 适配 · macOS support 🔄
 - [linzin86/LinzinDeskClock#24](https://github.com/linzin86/LinzinDeskClock/pull/24): 修正应用内语言切换 · Fix in-app language switching 🔄
 
-## 🛠️ 我的项目 · My Projects
+## 我的项目 · My Projects
 
 - **[nonebot-plugin-ccb](https://github.com/zebwqfox/nonebot-plugin-ccb)**: NoneBot2 群娱乐插件（OneBot V11）· A fun group-chat plugin for NoneBot2
 - **[fox-sign-in-system](https://github.com/zebwqfox/fox-sign-in-system)**: 学生签到管理系统，支持离线签到、语音提示与统计 · Student check-in system with offline mode and stats
 - **[MSI-B360M-i5-8400-UHD630](https://github.com/zebwqfox/MSI-B360M-i5-8400-UHD630)**: 微星 B360M + i5-8400 的黑苹果 EFI · Hackintosh EFI for an MSI B360M build
 
-## 📊 统计 · Stats
+## 统计 · Stats
 
 <p>
   <picture>
