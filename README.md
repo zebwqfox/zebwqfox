@@ -40,10 +40,10 @@
 
 ## 🛠️ 参与项目 · Projects I've Worked On
 
-**[白眼 · Byakugan](https://epcdiy.org/BY/)**: 官网开发与维护 · *Website development & maintenance*
+**[白眼 · Byakugan](https://epcdiy.org/BY/)**: 官网开发与维护（2021，基于 MDUI）· *Website development & maintenance (2021, built with MDUI)*
 
-B 站科技 UP 主 [epcdiy](https://epcdiy.org) 用 C++ 开发的山寨机跑分、甄别工具。我参与了白眼官网的开发和维护，名字（「中二病晚期」）在官方[鸣谢列表](https://epcdiy.org/BY/links.html)里。
-*The official site of Byakugan, a C++ benchmark and counterfeit-phone detection tool by tech creator epcdiy. Credited on its [acknowledgements page](https://epcdiy.org/BY/links.html).*
+B 站科技 UP 主 [epcdiy](https://epcdiy.org) 用 C++ 开发的山寨机跑分、甄别工具。我在 2021 年参与了白眼官网的开发和维护，官网基于 [MDUI](https://www.mdui.org) 构建，名字（「中二病晚期」）在官方[鸣谢列表](https://epcdiy.org/BY/links.html)里。
+*The official site of Byakugan, a C++ benchmark and counterfeit-phone detection tool by tech creator epcdiy. Built with MDUI in 2021; credited on its [acknowledgements page](https://epcdiy.org/BY/links.html).*
 
 ## 技术栈 · Tech Stack
 
