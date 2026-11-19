@@ -10,6 +10,45 @@
   <a href="https://github.com/FurDevsCN">@FurDevsCN</a>
 </p>
 
+## 🌟 重点贡献 · Featured Contribution
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/PCL-Community/PCL-CE">
+        <img src="https://raw.githubusercontent.com/PCL-Community/PCL-CE/dev/Plain%20Craft%20Launcher%202/Images/icon.png" width="96" alt="PCL CE logo">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/PCL-Community/PCL-CE">PCL Community Edition</a> 贡献者 · Contributor</h3>
+      Plain Craft Launcher 社区版，由社区开发者维护的 Minecraft 启动器<br>
+      <em>The community-maintained edition of Plain Craft Launcher, a Minecraft launcher.</em>
+      <br><br>
+      <a href="https://github.com/PCL-Community/PCL-CE/stargazers"><img src="https://img.shields.io/github/stars/PCL-Community/PCL-CE?style=flat-square&logo=github&label=Stars&color=eac54f" alt="Stars"></a>
+      <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET">
+      <a href="https://github.com/PCL-Community/PCL-CE/pull/3813"><img src="https://img.shields.io/badge/PR%20%233813-Merged-8957e5?style=flat-square&logo=github" alt="PR #3813 Merged"></a>
+    </td>
+  </tr>
+</table>
+
+**[#3813](https://github.com/PCL-Community/PCL-CE/pull/3813) fix(encoding): 修复游戏崩溃时导出的日志中文乱码** · *Fix garbled Chinese text in exported crash logs*
+
+- **问题**：导出崩溃报告时，没有 BOM 的 GBK `latest.log` 一律按 UTF-8 处理，中文全部变成乱码（[#3761](https://github.com/PCL-Community/PCL-CE/issues/3761)）。
+- **原因**：`_IsValidUtf8` 检查的是一块全 0 的缓冲区，根本没读文件内容；而 .NET 10 下 `Encoding.Default` 的回退值也是 UTF-8。
+- **修复**：读完整个流并严格校验 UTF-8，不合法时回退到 GB18030；补充了 GB18030 长文本、跨读取边界、截断 UTF-8 等单元测试。
+- 经两位维护者 Approve 后合并进 `dev` · +71 / −13，3 个文件。
+
+<table>
+  <tr>
+    <th>修复前 · Before</th>
+    <th>修复后 · After</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/452c1b58-caa6-40bc-981e-263b48981ba2" alt="修复前：导出的 latest.log 中文乱码"></td>
+    <td><img src="https://github.com/user-attachments/assets/834e6837-a125-44fb-b2f4-dfb833becd1a" alt="修复后：latest.log 中文正常显示"></td>
+  </tr>
+</table>
+
 ## 技术栈 · Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -40,7 +79,6 @@
 
 **其他 · Elsewhere**
 
-- [PCL-Community/PCL-CE#3813](https://github.com/PCL-Community/PCL-CE/pull/3813): 修复崩溃日志导出编码错误 · Fix crash-log export encoding 🔄
 - [C0P1Fur/FontNest#1](https://github.com/C0P1Fur/FontNest/pull/1): macOS 适配 · macOS support 🔄
 
 ## 我的项目 · My Projects
