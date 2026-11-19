@@ -65,6 +65,11 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge" alt="VS Code">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/ChatGPT%20%2F%20Codex-10A37F?style=for-the-badge" alt="ChatGPT / Codex">
+</p>
+
 ## 开源贡献 · Open Source Contributions
 
 **[wooliSyn/biolab-assistant](https://github.com/wooliSyn/biolab-assistant)**: 本地优先的分子生物学桌面工具（Tauri v2 + React）
