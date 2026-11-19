@@ -38,6 +38,13 @@
 - **修复**：读完整个流并严格校验 UTF-8，不合法时回退到 GB18030；补充了 GB18030 长文本、跨读取边界、截断 UTF-8 等单元测试。
 - 经两位维护者 Approve 后合并进 `dev` · +71 / −13，3 个文件。
 
+## 🛠️ 参与项目 · Projects I've Worked On
+
+**[白眼 · Byakugan](https://epcdiy.org/BY/)**: 官网开发与维护 · *Website development & maintenance*
+
+B 站科技 UP 主 [epcdiy](https://epcdiy.org) 用 C++ 开发的山寨机跑分、甄别工具。我参与了白眼官网的开发和维护，名字（「中二病晚期」）在官方[鸣谢列表](https://epcdiy.org/BY/links.html)里。
+*The official site of Byakugan, a C++ benchmark and counterfeit-phone detection tool by tech creator epcdiy. Credited on its [acknowledgements page](https://epcdiy.org/BY/links.html).*
+
 ## 技术栈 · Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
