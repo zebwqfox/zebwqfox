@@ -68,6 +68,26 @@ B 站科技 UP 主 [epcdiy](https://epcdiy.org) 用 C++ 开发的山寨机跑分
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/i5--14600K-32GB-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5-14600K 32GB">
+  <img src="https://img.shields.io/badge/GTX%201660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GeForce GTX 1660">
+  <img src="https://img.shields.io/badge/Windows%2011-Pro-0078D4?style=for-the-badge" alt="Windows 11 Pro">
+</p>
+
+<details>
+<summary>🖥️ 台式机配置 · Desktop Specs</summary>
+
+| 部件 · Part | 型号 · Model |
+| --- | --- |
+| CPU | Intel Core i5-14600K（14 核 / 20 线程） |
+| 主板 · Motherboard | MSI PRO B760M-A DDR4 II |
+| 内存 · RAM | 光威 Gloway DDR4-2666 16GB × 2（32GB） |
+| 显卡 · GPU | NVIDIA GeForce GTX 1660 + Intel UHD Graphics 770 |
+| 存储 · Storage | 致态 TiPlus5000 2TB NVMe · Kingston 1TB NVMe · Samsung 870 EVO 500GB SATA · Seagate 4TB HDD |
+| 系统 · OS | Windows 11 Pro 25H2（26200） |
+
+</details>
+
+<p>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge" alt="VS Code">
 </p>
