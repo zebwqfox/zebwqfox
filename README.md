@@ -38,17 +38,6 @@
 - **修复**：读完整个流并严格校验 UTF-8，不合法时回退到 GB18030；补充了 GB18030 长文本、跨读取边界、截断 UTF-8 等单元测试。
 - 经两位维护者 Approve 后合并进 `dev` · +71 / −13，3 个文件。
 
-<table>
-  <tr>
-    <th>修复前 · Before</th>
-    <th>修复后 · After</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/452c1b58-caa6-40bc-981e-263b48981ba2" alt="修复前：导出的 latest.log 中文乱码"></td>
-    <td><img src="https://github.com/user-attachments/assets/834e6837-a125-44fb-b2f4-dfb833becd1a" alt="修复后：latest.log 中文正常显示"></td>
-  </tr>
-</table>
-
 ## 技术栈 · Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -63,6 +52,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## 💻 设备 & 工具 · Setup
+
+<p>
+  <img src="https://img.shields.io/badge/MacBook%20Air-M2%20%C2%B7%2016GB-555555?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Air M2 16GB">
+  <img src="https://img.shields.io/badge/macOS-27-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 27">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge" alt="VS Code">
+</p>
 
 ## 开源贡献 · Open Source Contributions
 
