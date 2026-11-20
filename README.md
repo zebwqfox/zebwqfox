@@ -16,7 +16,7 @@
   <tr>
     <td width="120" align="center">
       <a href="https://github.com/PCL-Community/PCL-CE">
-        <img src="https://raw.githubusercontent.com/PCL-Community/PCL-CE/dev/Plain%20Craft%20Launcher%202/Images/icon.png" width="96" alt="PCL CE logo">
+        <img src="https://raw.githubusercontent.com/PCL-Community/PCL-CE/v2.15.1/Plain%20Craft%20Launcher%202/Images/icon.png" width="96" alt="PCL CE logo">
       </a>
     </td>
     <td>
