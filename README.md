@@ -108,11 +108,11 @@ B 站科技 UP 主 [epcdiy](https://epcdiy.org) 用 C++ 开发的山寨机跑分
 | [#3](https://github.com/wooliSyn/biolab-assistant/pull/3) | 按平台区分桌面外框（macOS / Windows 两套 UI）· Platform-native window chrome | ✅ Merged |
 | [#4](https://github.com/wooliSyn/biolab-assistant/pull/4) | 手动触发的打包发布 CI（通用 dmg + msi/exe）· Release workflow | ✅ Merged |
 | [#5](https://github.com/wooliSyn/biolab-assistant/pull/5) | 实验卡片带入物品清单与实验后闭环 · Post-experiment checklist loop | ✅ Merged |
-| [#7](https://github.com/wooliSyn/biolab-assistant/pull/7) | 跟手式拖动排序 + 启动时检查更新 · Drag-to-reorder, update check | 🔄 Open |
+| [#7](https://github.com/wooliSyn/biolab-assistant/pull/7) | 跟手式拖动排序 + 启动时检查更新 · Drag-to-reorder, update check | ✅ Merged |
 
 **其他 · Elsewhere**
 
-- [C0P1Fur/FontNest#1](https://github.com/C0P1Fur/FontNest/pull/1): macOS 适配 · macOS support 🔄
+- [C0P1Fur/FontNest#1](https://github.com/C0P1Fur/FontNest/pull/1): macOS 适配 · macOS support ✅
 
 ## 我的项目 · My Projects
 
